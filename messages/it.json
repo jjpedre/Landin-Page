@@ -1,0 +1,264 @@
+{
+  "nav": {
+    "categories": "Categorie",
+    "programs": "Programmi",
+    "ranking": "Classifica",
+    "forCenters": "Per i Centri",
+    "signIn": "Accedi",
+    "startFreeTrial": "Prova Gratuita"
+  },
+  "hero": {
+    "badge": "IL SISTEMA COMPLETO DI ALLENAMENTO IBRIDO",
+    "title1": "SII MIGLIORE.",
+    "title2": "SII TOTALE.",
+    "subtitle": "Il programma di allenamento definitivo per atleti e centri di allenamento. 5 categorie. Progressione intelligente. Adattamento personalizzato.",
+    "ctaPrimary": "Prova Gratuita",
+    "ctaSecondary": "Per i Centri di Allenamento",
+    "stat1Label": "Categorie di Allenamento",
+    "stat2Value": "100%",
+    "stat2Label": "Personalizzato",
+    "stat3Label": "Livelli Per Categoria"
+  },
+  "categories": {
+    "title": "5 CATEGORIE DI",
+    "titleHighlight": "ALLENAMENTO",
+    "subtitle": "Sviluppa tutte le aree del tuo fitness con il nostro sistema progressivo di livelli",
+    "currentLevel": "Livello Attuale",
+    "startTraining": "Inizia Allenamento",
+    "speed": {
+      "name": "VELOCITÀ",
+      "subtitle": "Esplosività",
+      "description": "Sviluppa potenza esplosiva e reazioni fulminee. Sprint, lavoro di agilità e pliometria progettati per massimizzare la tua velocità."
+    },
+    "strength": {
+      "name": "FORZA",
+      "subtitle": "Potenza",
+      "description": "Costruisci forza funzionale che si traduce in prestazioni reali. Sovraccarico progressivo, movimenti composti e potenza specifica per lo sport."
+    },
+    "endurance": {
+      "name": "RESISTENZA",
+      "subtitle": "Tenacia",
+      "description": "Supera i tuoi limiti cardiovascolari e di resistenza muscolare. Allenamento a zone, lavoro a intervalli e miglioramento sostenibile delle prestazioni."
+    },
+    "gymnastics": {
+      "name": "GINNASTICA",
+      "subtitle": "Abilità",
+      "description": "Padroneggia il controllo del corpo e le abilità tecniche. Esercizi di coordinazione, progressioni di abilità e padronanza del movimento per un atletismo completo."
+    },
+    "mobility": {
+      "name": "MOBILITÀ",
+      "subtitle": "Flessibilità",
+      "description": "Sblocca la tua gamma completa di movimento. Stretching dinamico, salute articolare e lavoro di flessibilità per prevenire infortuni e ottimizzare le prestazioni."
+    }
+  },
+  "programs": {
+    "title": "SCEGLI IL TUO",
+    "titleHighlight": "PROGRAMMA",
+    "subtitle": "Seleziona il programma che meglio si adatta ai tuoi obiettivi e stile di vita",
+    "mostPopular": "PIÙ POPOLARE",
+    "startProgram": "Inizia Programma",
+    "complete": {
+      "name": "PROGRAMMA COMPLETO",
+      "subtitle": "Ibrido Totale",
+      "description": "Padroneggia tutte le 5 categorie con progressione equilibrata in velocità, forza, resistenza, ginnastica e mobilità.",
+      "feature1": "Tutte le 5 categorie di allenamento",
+      "feature2": "Sviluppo equilibrato",
+      "feature3": "Programmazione completa",
+      "feature4": "Valutazione completa dell'atleta"
+    },
+    "hyrox": {
+      "name": "PROGRAMMA HYROX",
+      "subtitle": "Pronto per la Gara",
+      "description": "Preparazione specifica per le competizioni HYROX con programmazione per data obiettivo e simulazione di gara.",
+      "feature1": "Allenamento specifico per gara",
+      "feature2": "Programmazione per data obiettivo",
+      "feature3": "Pratica delle stazioni",
+      "feature4": "Strategia di competizione"
+    },
+    "focus": {
+      "name": "PROGRAMMA FOCUS",
+      "subtitle": "Specializzato",
+      "description": "Accelera il miglioramento in una categoria a tua scelta con blocchi di allenamento intensivi e mirati.",
+      "feature1": "Focus su una categoria",
+      "feature2": "Progresso accelerato",
+      "feature3": "Sviluppo approfondito delle abilità",
+      "feature4": "Avanzamento rapido di livello"
+    }
+  },
+  "challenges": {
+    "title": "QUANTI RIESCI A COMPLETARE?",
+    "subtitle": "Benchmark reali. Nessuna scusa.",
+    "ofAthletes": "degli atleti HTT",
+    "completed": "hanno completato questo",
+    "yourCompleted": "Hai completato",
+    "of10": "di 10.",
+    "averageAthlete": "L'atleta HTT medio:",
+    "top10": "Il top 10%:",
+    "trackProgress": "Monitora i tuoi progressi",
+    "items": {
+      "handstand": {
+        "name": "VERTICALE",
+        "description": "Tieni 10 secondi senza aiuto",
+        "difficulty": "ATHLETE"
+      },
+      "benchPress": {
+        "name": "PANCA PIANA PC",
+        "description": "1 rep al 100% peso corporeo",
+        "difficulty": "ATHLETE"
+      },
+      "run10k": {
+        "name": "10K SOTTO 45'",
+        "description": "Ritmo costante, nessuna scusa",
+        "difficulty": "BEGINNER"
+      },
+      "pullUps": {
+        "name": "20 TRAZIONI STRETTE",
+        "description": "Presa morta, estensione completa",
+        "difficulty": "ELITE"
+      },
+      "pushUps": {
+        "name": "100 FLESSIONI SENZA STOP",
+        "description": "Una serie, senza riposo",
+        "difficulty": "ATHLETE"
+      },
+      "run5k": {
+        "name": "5K SOTTO 20'",
+        "description": "Ritmo sub 4:00/km",
+        "difficulty": "ELITE"
+      },
+      "lSit": {
+        "name": "L-SIT 15 SECONDI",
+        "description": "Forza del core e flessibilità",
+        "difficulty": "ATHLETE"
+      },
+      "deadlift": {
+        "name": "STACCO 2X PC",
+        "description": "Potenza catena posteriore",
+        "difficulty": "ELITE"
+      },
+      "muscleUp": {
+        "name": "1 MUSCLE-UP",
+        "description": "La pietra miliare della ginnastica",
+        "difficulty": "ATHLETE"
+      },
+      "plank": {
+        "name": "PLANK 3 MINUTI",
+        "description": "Resistenza mentale e fisica",
+        "difficulty": "BEGINNER"
+      }
+    }
+  },
+  "ranking": {
+    "title": "COMPETI E SII IL",
+    "titleHighlight": "PIÙ COMPLETO",
+    "subtitle": "Unisciti alla classifica globale e dimostra il tuo progresso in tutte le 5 categorie",
+    "globalRanking": "CLASSIFICA GLOBALE",
+    "totalLevel": "Livello Totale",
+    "yourProgress": "I TUOI PROGRESSI",
+    "globalRank": "Classifica Globale",
+    "improveRanking": "Migliora la Tua Classifica",
+    "badges": {
+      "eliteHybrid": "Ibrido Elite",
+      "proAthlete": "Atleta Pro"
+    },
+    "weeklyChallenges": {
+      "title": "SFIDE SETTIMANALI",
+      "description": "Completa sfide speciali ogni settimana per guadagnare punti bonus e sbloccare achievements."
+    },
+    "levelRecords": {
+      "title": "RECORD DI LIVELLO",
+      "description": "Stabilisci record personali in ogni categoria e monitora il tuo miglioramento nel tempo."
+    },
+    "smartProgress": {
+      "title": "PROGRESSO INTELLIGENTE",
+      "description": "Progressione alimentata dall'IA che si adatta alle tue prestazioni e ai tuoi pattern di recupero."
+    }
+  },
+  "features": {
+    "title": "GLI STRUMENTI DI CUI HAI BISOGNO PER",
+    "titleHighlight": "ALLENARTI MEGLIO",
+    "subtitle": "Piattaforma completa per atleti e allenatori con sistemi di livelli progressivi",
+    "personalized": {
+      "title": "100% PERSONALIZZATO",
+      "description": "Ogni programma si adatta automaticamente al tuo livello attuale, progresso e obiettivi specifici. Che tu sia principiante o atleta avanzato."
+    },
+    "adapted": {
+      "title": "ADATTATO AL TUO LIVELLO",
+      "description": "Il programma si regola automaticamente in base al tuo progresso e alle tue capacità attuali in tutte le 5 categorie."
+    },
+    "anywhere": {
+      "title": "ALLENATI OVUNQUE",
+      "description": "Allenati in palestre, centri sportivi, parchi o da casa. I programmi si adattano alla tua attrezzatura e posizione disponibili."
+    },
+    "smart": {
+      "title": "PROGRESSO INTELLIGENTE",
+      "description": "Avanza al tuo ritmo con aumenti graduali e monitoraggio dettagliato. Mai stagnare, sempre migliorare."
+    },
+    "totalPersonalization": "PERSONALIZZAZIONE TOTALE",
+    "totalPersonalizationDesc": "Il nostro algoritmo intelligente considera la tua storia, obiettivi, tempo disponibile e attrezzatura accessibile per creare il programma perfetto. Ogni allenamento è progettato specificamente per te.",
+    "bullet1": "Analisi del tuo livello attuale in ogni categoria",
+    "bullet2": "Adattamento basato sul tuo progresso settimanale",
+    "bullet3": "Considerazione della tua attrezzatura e posizione",
+    "bullet4": "Aggiustamenti basati sulla tua disponibilità di tempo"
+  },
+  "forCenters": {
+    "badge": "PER I CENTRI DI ALLENAMENTO",
+    "title": "AGGIUNGI",
+    "titleHighlight": "HTT",
+    "titleEnd": "AI TUOI SERVIZI",
+    "subtitle": "Integra Hybrid Total Training nella tua palestra o centro di allenamento. Gestisci atleti, monitora i progressi e offri programmazione di classe mondiale con la nostra piattaforma professionale.",
+    "requestDemo": "Richiedi Demo",
+    "manageAthletes": {
+      "title": "GESTISCI ATLETI",
+      "description": "Crea e gestisci programmi personalizzati per tutti i tuoi atleti da un'unica dashboard."
+    },
+    "realTimeTracking": {
+      "title": "MONITORAGGIO IN TEMPO REALE",
+      "description": "Monitora progressi, metriche di prestazione e tassi di completamento di tutto il tuo team."
+    },
+    "customPrograms": {
+      "title": "PROGRAMMI PERSONALIZZATI",
+      "description": "Progetta programmi di allenamento personalizzati adattati alla tua struttura e attrezzatura disponibile."
+    },
+    "scaleYourBusiness": {
+      "title": "SCALA IL TUO BUSINESS",
+      "description": "Aggiungi la metodologia HTT ai tuoi servizi e attira atleti che cercano allenamento ibrido."
+    },
+    "dashboard": {
+      "title": "Dashboard Centro di Allenamento",
+      "activeAthletes": "Atleti Attivi",
+      "progress": "Progresso",
+      "completion": "Completamento",
+      "programs": "Programmi",
+      "thisMonth": "Questo Mese"
+    }
+  },
+  "cta": {
+    "title": "PRONTO A ESSERE",
+    "titleHighlight": "TOTALE",
+    "subtitle": "Inizia oggi il tuo programma di allenamento ibrido personalizzato. Padroneggia tutte le 5 categorie. Competi globalmente. Raggiungi il tuo meglio.",
+    "ctaPrimary": "Prova Gratuita",
+    "ctaSecondary": "Contattaci",
+    "noCreditCard": "Nessuna carta di credito richiesta. Cancella quando vuoi."
+  },
+  "footer": {
+    "description": "Il sistema completo di allenamento ibrido per atleti che vogliono essere i migliori in ogni categoria.",
+    "training": "ALLENAMENTO",
+    "completeProgram": "Programma Completo",
+    "hyroxProgram": "Programma HYROX",
+    "focusProgram": "Programma Focus",
+    "categories": "Categorie",
+    "platform": "PIATTAFORMA",
+    "forAthletes": "Per gli Atleti",
+    "forTrainingCenters": "Per i Centri di Allenamento",
+    "globalRanking": "Classifica Globale",
+    "challenges": "Sfide",
+    "company": "AZIENDA",
+    "aboutUs": "Chi Siamo",
+    "contact": "Contatto",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Termini di Servizio",
+    "copyright": "© 2026 Hybrid Total Training. Tutti i diritti riservati.",
+    "slogan": "Sii migliore. Sii totale."
+  }
+}

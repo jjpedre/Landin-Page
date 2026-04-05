@@ -1,0 +1,264 @@
+{
+  "nav": {
+    "categories": "Categories",
+    "programs": "Programs",
+    "ranking": "Ranking",
+    "forCenters": "For Centers",
+    "signIn": "Sign In",
+    "startFreeTrial": "Start Free Trial"
+  },
+  "hero": {
+    "badge": "THE COMPLETE HYBRID TRAINING SYSTEM",
+    "title1": "BE BETTER.",
+    "title2": "BE TOTAL.",
+    "subtitle": "The ultimate training program for athletes and training centers. 5 categories. Smart progression. Personalized adaptation.",
+    "ctaPrimary": "Start Free Trial",
+    "ctaSecondary": "For Training Centers",
+    "stat1Label": "Training Categories",
+    "stat2Value": "100%",
+    "stat2Label": "Personalized",
+    "stat3Label": "Levels Per Category"
+  },
+  "categories": {
+    "title": "5 CATEGORIES OF",
+    "titleHighlight": "TRAINING",
+    "subtitle": "Develop all areas of your fitness with our progressive level system",
+    "currentLevel": "Current Level",
+    "startTraining": "Start Training",
+    "speed": {
+      "name": "SPEED",
+      "subtitle": "Explosiveness",
+      "description": "Develop explosive power and lightning-fast reactions. Sprint drills, agility work, and plyometrics designed to maximize your velocity."
+    },
+    "strength": {
+      "name": "STRENGTH",
+      "subtitle": "Power",
+      "description": "Build functional strength that translates to real performance. Progressive overload, compound movements, and sport-specific power."
+    },
+    "endurance": {
+      "name": "ENDURANCE",
+      "subtitle": "Stamina",
+      "description": "Push your cardiovascular limits and muscular endurance. Zone training, interval work, and sustainable performance enhancement."
+    },
+    "gymnastics": {
+      "name": "GYMNASTICS",
+      "subtitle": "Skill",
+      "description": "Master body control and technical skills. Coordination drills, skill progressions, and movement mastery for complete athleticism."
+    },
+    "mobility": {
+      "name": "MOBILITY",
+      "subtitle": "Flexibility",
+      "description": "Unlock your full range of motion. Dynamic stretching, joint health, and flexibility work to prevent injury and optimize performance."
+    }
+  },
+  "programs": {
+    "title": "CHOOSE YOUR",
+    "titleHighlight": "PROGRAM",
+    "subtitle": "Select the program that best fits your goals and lifestyle",
+    "mostPopular": "MOST POPULAR",
+    "startProgram": "Start Program",
+    "complete": {
+      "name": "COMPLETE PROGRAM",
+      "subtitle": "Full Hybrid",
+      "description": "Master all 5 categories with balanced progression across speed, strength, endurance, gymnastics, and mobility.",
+      "feature1": "All 5 training categories",
+      "feature2": "Balanced development",
+      "feature3": "Comprehensive programming",
+      "feature4": "Full athlete assessment"
+    },
+    "hyrox": {
+      "name": "HYROX PROGRAM",
+      "subtitle": "Race Ready",
+      "description": "Specific preparation for HYROX competition with target date programming and race simulation.",
+      "feature1": "Race-specific training",
+      "feature2": "Target date programming",
+      "feature3": "Station practice",
+      "feature4": "Competition strategy"
+    },
+    "focus": {
+      "name": "FOCUS PROGRAM",
+      "subtitle": "Specialized",
+      "description": "Accelerate improvement in a single category of your choice with intensive, focused training blocks.",
+      "feature1": "Single category focus",
+      "feature2": "Accelerated progress",
+      "feature3": "Deep skill development",
+      "feature4": "Rapid level advancement"
+    }
+  },
+  "challenges": {
+    "title": "HOW MANY CAN YOU COMPLETE?",
+    "subtitle": "Real benchmarks. No excuses.",
+    "ofAthletes": "of HTT athletes",
+    "completed": "completed this",
+    "yourCompleted": "You've completed",
+    "of10": "of 10.",
+    "averageAthlete": "The average HTT athlete:",
+    "top10": "The top 10%:",
+    "trackProgress": "Track your progress",
+    "items": {
+      "handstand": {
+        "name": "HANDSTAND",
+        "description": "Hold 10 seconds unassisted",
+        "difficulty": "ATHLETE"
+      },
+      "benchPress": {
+        "name": "BENCH PRESS BW",
+        "description": "1 rep at 100% bodyweight",
+        "difficulty": "ATHLETE"
+      },
+      "run10k": {
+        "name": "RUN 10K UNDER 45'",
+        "description": "Consistent pace, no excuses",
+        "difficulty": "BEGINNER"
+      },
+      "pullUps": {
+        "name": "20 STRICT PULL-UPS",
+        "description": "Dead hang, full extension",
+        "difficulty": "ELITE"
+      },
+      "pushUps": {
+        "name": "100 PUSH-UPS UNBROKEN",
+        "description": "One set, no rest",
+        "difficulty": "ATHLETE"
+      },
+      "run5k": {
+        "name": "5K UNDER 20'",
+        "description": "Sub 4:00/km pace",
+        "difficulty": "ELITE"
+      },
+      "lSit": {
+        "name": "L-SIT 15 SECONDS",
+        "description": "Core strength & flexibility",
+        "difficulty": "ATHLETE"
+      },
+      "deadlift": {
+        "name": "2X BW DEADLIFT",
+        "description": "Raw posterior chain power",
+        "difficulty": "ELITE"
+      },
+      "muscleUp": {
+        "name": "1 MUSCLE-UP",
+        "description": "The gymnastic milestone",
+        "difficulty": "ATHLETE"
+      },
+      "plank": {
+        "name": "PLANK 3 MINUTES",
+        "description": "Mental & physical endurance",
+        "difficulty": "BEGINNER"
+      }
+    }
+  },
+  "ranking": {
+    "title": "COMPETE & BE THE",
+    "titleHighlight": "MOST COMPLETE",
+    "subtitle": "Join the global ranking and prove your progress across all 5 categories",
+    "globalRanking": "GLOBAL RANKING",
+    "totalLevel": "Total Level",
+    "yourProgress": "YOUR PROGRESS",
+    "globalRank": "Global Rank",
+    "improveRanking": "Improve Your Ranking",
+    "badges": {
+      "eliteHybrid": "Elite Hybrid",
+      "proAthlete": "Pro Athlete"
+    },
+    "weeklyChallenges": {
+      "title": "WEEKLY CHALLENGES",
+      "description": "Complete special challenges every week to earn bonus points and unlock achievements."
+    },
+    "levelRecords": {
+      "title": "LEVEL RECORDS",
+      "description": "Set personal records in each category and track your improvement over time."
+    },
+    "smartProgress": {
+      "title": "SMART PROGRESS",
+      "description": "AI-powered progression that adapts to your performance and recovery patterns."
+    }
+  },
+  "features": {
+    "title": "THE TOOLS YOU NEED TO",
+    "titleHighlight": "TRAIN BETTER",
+    "subtitle": "Complete platform for athletes and coaches with progressive level systems",
+    "personalized": {
+      "title": "100% PERSONALIZED",
+      "description": "Every program adapts automatically to your current level, progress, and specific goals. Whether you're a beginner or advanced athlete."
+    },
+    "adapted": {
+      "title": "ADAPTED TO YOUR LEVEL",
+      "description": "The program automatically adjusts based on your progress and current capabilities across all 5 categories."
+    },
+    "anywhere": {
+      "title": "TRAIN ANYWHERE",
+      "description": "Train at gyms, sports centers, parks, or from home. Programs adapt to your available equipment and location."
+    },
+    "smart": {
+      "title": "SMART PROGRESS",
+      "description": "Advance at your own pace with gradual increases and detailed tracking. Never plateau, always improve."
+    },
+    "totalPersonalization": "TOTAL PERSONALIZATION",
+    "totalPersonalizationDesc": "Our intelligent algorithm considers your history, goals, available time, and accessible equipment to create the perfect program. Every workout is designed specifically for you.",
+    "bullet1": "Analysis of your current level in each category",
+    "bullet2": "Adaptation based on your weekly progress",
+    "bullet3": "Consideration of your equipment and location",
+    "bullet4": "Adjustments based on your time availability"
+  },
+  "forCenters": {
+    "badge": "FOR TRAINING CENTERS",
+    "title": "ADD",
+    "titleHighlight": "HTT",
+    "titleEnd": "TO YOUR SERVICES",
+    "subtitle": "Integrate Hybrid Total Training into your gym or training center. Manage athletes, track progress, and deliver world-class programming with our professional platform.",
+    "requestDemo": "Request Demo",
+    "manageAthletes": {
+      "title": "MANAGE ATHLETES",
+      "description": "Create and manage personalized programs for all your athletes from a single dashboard."
+    },
+    "realTimeTracking": {
+      "title": "REAL-TIME TRACKING",
+      "description": "Monitor progress, performance metrics, and completion rates across your entire roster."
+    },
+    "customPrograms": {
+      "title": "CUSTOM PROGRAMS",
+      "description": "Design custom training programs adapted to your facility and equipment availability."
+    },
+    "scaleYourBusiness": {
+      "title": "SCALE YOUR BUSINESS",
+      "description": "Add the HTT methodology to your services and attract athletes seeking hybrid training."
+    },
+    "dashboard": {
+      "title": "Training Center Dashboard",
+      "activeAthletes": "Active Athletes",
+      "progress": "Progress",
+      "completion": "Completion",
+      "programs": "Programs",
+      "thisMonth": "This Month"
+    }
+  },
+  "cta": {
+    "title": "READY TO BE",
+    "titleHighlight": "TOTAL",
+    "subtitle": "Start your personalized hybrid training program today. Master all 5 categories. Compete globally. Achieve your best self.",
+    "ctaPrimary": "Start Free Trial",
+    "ctaSecondary": "Contact Us",
+    "noCreditCard": "No credit card required. Cancel anytime."
+  },
+  "footer": {
+    "description": "The complete hybrid training system for athletes who want to be their best in every category.",
+    "training": "TRAINING",
+    "completeProgram": "Complete Program",
+    "hyroxProgram": "HYROX Program",
+    "focusProgram": "Focus Program",
+    "categories": "Categories",
+    "platform": "PLATFORM",
+    "forAthletes": "For Athletes",
+    "forTrainingCenters": "For Training Centers",
+    "globalRanking": "Global Ranking",
+    "challenges": "Challenges",
+    "company": "COMPANY",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "copyright": "© 2026 Hybrid Total Training. All rights reserved.",
+    "slogan": "Be better. Be total."
+  }
+}
